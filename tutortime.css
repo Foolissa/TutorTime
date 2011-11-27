@@ -1,0 +1,42 @@
+.list-item-name
+{
+    float:left;
+    width:100%;
+    font-size:90%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.list-item-student
+{
+    float:left;
+    width:100%;
+    color:#666666;
+    font-size:80%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.list-item-balance
+{
+    float:right;
+    width:20%;
+    color:#666666;
+    font-size:80%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.x-item-selected .list-item-name
+{
+    color:#ffffff;
+}
+.x-item-selected .list-item-student
+{
+    color:#ffffff;
+}
+.x-item-selected .list-item-balance
+{
+    color:#ffffff;
+}
+﻿
